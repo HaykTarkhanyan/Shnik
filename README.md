@@ -1,5 +1,5 @@
 # Shnik
-shnik.pythonanyhwere.com
+[կայքը](shnik.pythonanyhwere.com)
 
 ՊԵտքա՞ ճշտել ինչ-որ մեկի ծնունդը երբա որ հանկարծ չմոռանալ շնորհավորել, 
 
