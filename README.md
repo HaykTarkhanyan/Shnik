@@ -1,0 +1,2 @@
+# Shnik
+Elections data extractor
