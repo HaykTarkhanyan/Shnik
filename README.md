@@ -8,5 +8,5 @@
 
 Բայց ձեր ծանոթ **ԿԳԲ**-@ը ինչպես նաև **ՖՍԲ**@ը խառն են։ Ձեզ կօգնի :dog:ը 
 
-
+Uses last elections public data
 Date finished -> 19.03.21
